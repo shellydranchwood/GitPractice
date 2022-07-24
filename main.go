@@ -1,3 +1,3 @@
 func main()
 
-local version
+faszom az egészbe ez lesz a conflict res
